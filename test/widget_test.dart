@@ -7,7 +7,7 @@ void main() {
     await tester.pumpWidget(const VastraxApp());
     await tester.pumpAndSettle();
 
-    expect(find.text('Vastrax'), findsOneWidget);
+    expect(find.text('VASTRAX'), findsOneWidget);
     expect(find.text('Prithvi & Dhaga'), findsOneWidget);
     expect(find.textContaining('Earth Weave'), findsWidgets);
   });

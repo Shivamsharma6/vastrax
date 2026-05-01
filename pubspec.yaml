@@ -56,6 +56,37 @@ flutter:
     - assets/icons/
     - assets/lottie/
     - dummy_pictures/
+    - dummy_pictures/AATMA/
+    - dummy_pictures/AATMA/bag/
+    - dummy_pictures/AATMA/hat/
+    - dummy_pictures/AATMA/meditation_box/
+    - dummy_pictures/AATMA/shoe/
+    - dummy_pictures/AATMA/sneakers/
+    - dummy_pictures/AATMA/tote_bag/
+    - dummy_pictures/ANTIM/
+    - dummy_pictures/ANTIM/bag/
+    - dummy_pictures/ANTIM/hat/
+    - dummy_pictures/ANTIM/shoe/
+    - dummy_pictures/ANTIM/sneakers/
+    - dummy_pictures/ANTIM/tote_bag/
+    - dummy_pictures/PRITHVI_AND_DHAGA/
+    - dummy_pictures/PRITHVI_AND_DHAGA/bag/
+    - dummy_pictures/PRITHVI_AND_DHAGA/hat/
+    - dummy_pictures/PRITHVI_AND_DHAGA/sneakers/
+    - dummy_pictures/PRITHVI_AND_DHAGA/textile_map/
+    - dummy_pictures/PRITHVI_AND_DHAGA/tote_bag/
+    - dummy_pictures/RUDRA/
+    - dummy_pictures/RUDRA/amulet/
+    - dummy_pictures/RUDRA/bag/
+    - dummy_pictures/RUDRA/sneakers/
+    - dummy_pictures/RUDRA/textile_map/
+    - dummy_pictures/RUDRA/tote_bag/
+    - dummy_pictures/SHUNYA/
+    - dummy_pictures/SHUNYA/bag/
+    - dummy_pictures/SHUNYA/hat/
+    - dummy_pictures/SHUNYA/shoe/
+    - dummy_pictures/SHUNYA/sneakers/
+    - dummy_pictures/SHUNYA/tote_bag/
     
   fonts:
     - family: Inter
